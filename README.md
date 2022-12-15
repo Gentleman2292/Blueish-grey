@@ -1,20 +1,16 @@
 <h1 align="center">
   Blueish grey
 </h1>
+
 <h4 align="center">
 a custom theme for MultiMC/PolyMC/PrismLauncher
-
 </h4>
- <br>
-  <br>
- <br>
+
 
 [![Downloads](https://img.shields.io/github/downloads/GentlemanMC/Blueish-grey/total?color=9cf&style=for-the-badge)](https://github.com/GentlemanMC/Blueish-grey/releases)
 
  <br>
-  <br>
-   <br>
-    <br>
+
 
 ## How to use:
 
