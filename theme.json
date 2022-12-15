@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "AlternateBase": "#292f44",
+        "Base": "#292f44",
+        "BrightText": "#ff5555",
+        "Button": "#32325A",
+        "ButtonText": "#c0c0c0",
+        "Highlight": "#6272a4",
+        "HighlightedText": "#44475a",
+        "Link": "#8be9fd",
+        "Text": "#e0e0e0",
+        "ToolTipBase": "#f8f8f2",
+        "ToolTipText": "#f8f8f2",
+        "Window": "#33335C",
+        "WindowText": "#f8f8f2",
+        "fadeAmount": 0,
+        "fadeColor": "#44475a"
+    },
+    "name": "Blueish grey",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
