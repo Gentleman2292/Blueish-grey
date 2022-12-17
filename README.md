@@ -6,11 +6,7 @@
 a custom theme for MultiMC/PolyMC/PrismLauncher
 </h4>
 
-
-[![Downloads](https://img.shields.io/github/downloads/GentlemanMC/Blueish-grey/total?color=9cf&style=for-the-badge)](https://github.com/GentlemanMC/Blueish-grey/releases)
-
  <br>
-
 
 ## How to use:
 
